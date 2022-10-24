@@ -8,7 +8,7 @@ For now, to get a general sense of what Twatch is going to do, feel free to foll
 
 1. Download the Twatch folder from the github repo.
 2. Navigate to /Twatch-VandyHacks-IX/Twatch/index.html
-3. Copy the full path of index.html and paste it in your browser. You should be able to see a glmpse into Twatch's goal.
+3. Copy the full path of index.html and paste it in your browser. You should be able to see a glimpse into how Twatch is intended to operate.
 
 
 Right now, Twatch runs on mostly HTML, CSS (Bootstrap) and a little Javascript. This will be updated as more frameworks become incorporated.
