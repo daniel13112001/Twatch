@@ -2,7 +2,7 @@
 
 Twatch (Terror Watch) is a website created to help keep track of emergency events such as Boko Haram and other terrorist attacks, kidnappings, banditry and riots in Nigeria. The idea is that people within the vicinity of an attack can report such incidences in real time, so that other people avoid the trouble zones at that time. Also, I hope to include a mechanism for alerting the Nigerian military or police force when such reports are created.
 
-Twatch was conceived at VandyHacks IX (Ocean Edition, 2022) and is still in development. I will update it as time progresses. My next step for now is setting up a node/express server, and then I will look to set up a database and add additional features. I hope to have Twatch fully deployed and running by New Year's day of 2023.
+Twatch was conceived at VandyHacks IX (Ocean Edition, 2022) and is still in development. It will be updated as time progresses. The next step for now is setting up a node/express server, and then setting up a database and add additional features. The goal is to have Twatch fully deployed and running by New Year's day of 2023.
 
 For now, to get a general sense of what Twatch is going to do, feel free to follow the following steps:
 
@@ -17,4 +17,4 @@ Right now, Twatch runs on mostly HTML, CSS (Bootstrap) and a little Javascript. 
 
 
 
-Special Credits: The inspiration and template I used for the bootstrap design came from https://bootstrapmade.com.
+Special Credits: The inspiration and template used for the bootstrap design came from https://bootstrapmade.com.
