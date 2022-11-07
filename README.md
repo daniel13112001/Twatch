@@ -14,7 +14,7 @@ For now, to get a general sense of what Twatch is going to do, feel free to foll
 4. Make sure you have nodemon installed by using the terminal command npm install -g nodemon
 5. Install express by using the terminal command npm install express
 6. Install dotenv by using npm install dotenv
-7. Then navigate into the Twatch folder and use npm start in the terminal to load up th express server.
+7. Then navigate into the Twatch folder and use npm start in the terminal to load up the express server.
 8. Finally, in your browser, type "localhost:3000". This should show you where Twatch is at right now.
 
 As at this update, Twatch has now incorporoted Node.js and Express.js, in addition to the HTML/CSS, Bootstrap and vanilla Javascript in the first commit. 
